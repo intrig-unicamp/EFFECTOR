@@ -10,4 +10,4 @@ Thats it. You will find interactive controll to play with the dataset. For examp
 
 # Example
 
-![Example](https://github.com/razaulmustafa852/edc/blob/main/iNotebook/iBook.png)
+![Example](https://github.com/razaulmustafa852/EFFECTOR/blob/main/iBooks/QoSi.png)
