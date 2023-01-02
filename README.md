@@ -7,6 +7,9 @@ Tools required to stream DASH video content
   - Caddy Web-server https://caddyserver.com/
 
 # Steps to make a your own setup
+
+![alt text](https://github.com/razaulmustafa852/EFFECTOR/phase_2.png)
+
  1. Install Mininet. https://mininet-wifi.github.io/get-started/
  2. In the next step, Install goDASHBED. How to install goDASHBED please follow: https://github.com/uccmisl/goDASHbed
  3. Next you need video. You can download videos from http://cs1dev.ucc.ie/misl/4K_non_copyright_dataset/. You will find 2,4,6,8,10 second segment size
